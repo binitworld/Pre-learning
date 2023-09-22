@@ -1,0 +1,22 @@
+___________________________________________________________________________________________
+ECMAScript:-
+--ECMAScript is a standard on which Javascript is based!!,
+
+- It was created to ensure that different documents on java scripts are actually  talking
+about the same language.
+
+--Java script & ECMAscripts can almost always be used interchangeably 
+
+-Java Script is very liberal in what it allows
+
+___________________________________________________________________________________________
+Execution of Java Script:::---
+--->Javascript can be executed right inside one's brower you can open the Javascript console 
+and short writing Javascript there
+
+-->Another way to execute java script is a runtime like node.js which can be installed and used to run 
+javascript code.
+
+
+>>> Yet another way to create javascript is by insert it inside <script> tag of an HTML documents.
+
