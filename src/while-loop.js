@@ -9,6 +9,22 @@ while(i<n+1){
 }
 
 
+// do While -loop
+
+let h = 7;
+
+h = Number.parseInt(h);
+
+let j = 1;
+do{
+    console.log(j)
+    j++
+
+}
+while(j<=h){
+    console.log(true)
+}
+
 
 
 
